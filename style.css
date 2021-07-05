@@ -12,7 +12,7 @@ p{
 span{
     color: rgb(64, 141, 12);
 }
-section{
+.flexible{
     display: flex;
 }
 .half-width img{
@@ -31,6 +31,31 @@ section{
     font-size: 20px;
     margin-left: 30%;
 }
-.corner img{
-    padding: 2%;
+.second{
+    margin-top:  25%;
+}
+#dream img{
+    width: 98%;
+}
+#dream-text{
+    width: 50%;
+    margin-left:2%;
+}
+#point{
+    color: rgb(255, 0, 157);
+}
+#become{
+    color: rgb(176, 196, 0);
+}
+.level{
+    font-size:22px;
+}
+.flexible{
+        border: 3px solid;
+        padding: 85px;
+        box-shadow: 12px 15px 20px red inset;
+}
+footer{
+    font-size: 15px;
+    text-align: center;
 }
