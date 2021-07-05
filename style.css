@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+h2{
+    color: rgb(179, 35, 35);
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+span{
+    color: rgb(64, 141, 12);
+}
+section{
+    display: flex;
+}
+.half-width img{
+    width:75%;
+    padding-right: 7%;
+}
+.half-width{
+    padding-left: 3%;
+}
+.button-design{
+    background-image: linear-gradient(to right, rgba(159, 201, 255, 0.856), rgb(151, 86, 255));
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 12px;
+    border-radius: 6px;
+    font-size: 20px;
+    margin-left: 30%;
+}
+.corner img{
+    padding: 2%;
+}
